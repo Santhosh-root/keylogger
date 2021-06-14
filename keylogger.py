@@ -4,8 +4,8 @@ import pyxhook
 
 """
 	*--------------------------------------*
-	|       programmed by : Santhosh Kumar |
-	|         linktr.ee/Santhosh_Kumar     |
+	|     programmed by : Santhosh Kumar   |
+	|       linktr.ee/Santhosh_Kumar       |
 	*--------------------------------------*
 	 
 	               Keylogger
